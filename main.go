@@ -6,7 +6,7 @@ import (
 
 	"github.com/hashicorp/terraform-plugin-framework/providerserver"
 	"github.com/hashicorp/terraform-plugin-go/tfprotov6/tf6server"
-	"github.com/prefecthq/terraform-provider-prefect/internal/provider"
+	"github.com/ru5j4r0/terraform-provider-prefect/provider"
 )
 
 const providerAddress = "registry.terraform.io/prefecthq/prefect"

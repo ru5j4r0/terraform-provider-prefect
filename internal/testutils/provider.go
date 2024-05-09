@@ -10,9 +10,9 @@ import (
 	"github.com/hashicorp/terraform-plugin-framework/provider"
 	"github.com/hashicorp/terraform-plugin-framework/providerserver"
 	"github.com/hashicorp/terraform-plugin-go/tfprotov6"
-	"github.com/prefecthq/terraform-provider-prefect/internal/api"
-	"github.com/prefecthq/terraform-provider-prefect/internal/client"
-	prefectProvider "github.com/prefecthq/terraform-provider-prefect/internal/provider"
+	"github.com/ru5j4r0/terraform-provider-prefect/internal/api"
+	"github.com/ru5j4r0/terraform-provider-prefect/internal/client"
+	prefectProvider "github.com/ru5j4r0/terraform-provider-prefect/provider"
 )
 
 // TestAccPrefix is the prefix set for all resources created via acceptance testing,

@@ -10,7 +10,7 @@ import (
 
 	"github.com/google/uuid"
 
-	"github.com/prefecthq/terraform-provider-prefect/internal/api"
+	"github.com/ru5j4r0/terraform-provider-prefect/internal/api"
 )
 
 var _ = api.WorkspacesClient(&WorkspacesClient{})

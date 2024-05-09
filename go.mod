@@ -1,4 +1,4 @@
-module github.com/prefecthq/terraform-provider-prefect
+module github.com/ru5j4r0/terraform-provider-prefect
 
 go 1.21
 
